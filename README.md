@@ -7,11 +7,11 @@ I would like to thank to [K. Zhou et al.](https://github.com/KaiyangZhou/pytorch
 
 ## References
 
-@misc{fajtl2018summarizing,
-    title={Summarizing Videos with Attention},
-    author={Jiri Fajtl and Hajar Sadeghi Sokeh and Vasileios Argyriou and Dorothy Monekosso and Paolo Remagnino},
-    year={2018},
-    eprint={1812.01969},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
+    @misc{fajtl2018summarizing,
+        title={Summarizing Videos with Attention},
+        author={Jiri Fajtl and Hajar Sadeghi Sokeh and Vasileios Argyriou and Dorothy Monekosso and Paolo Remagnino},
+        year={2018},
+        eprint={1812.01969},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+    }
