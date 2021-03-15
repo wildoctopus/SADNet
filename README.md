@@ -1,6 +1,12 @@
 # SADNet
 Soft and Difference Attention Network for Video Summarization
 
+## SADNet Architecture overview
+
+<p align="center">
+  <img src="./images/SADNet.png">
+</p>
+
 ## Datasets and pretrained models
 
 Preprocessed datasets TVSum, SumMe, YouTube and OVP as well as VASNet pretrained models you can download by running the following command:
