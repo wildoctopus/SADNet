@@ -4,7 +4,7 @@ Soft and Difference Attention Network for Video Summarization
 ## SADNet Architecture overview
 
 <p align="center">
-  <img src="./images/SADNet.png">
+  <img src="./readmeImg/SADNet.png">
 </p>
 
 ## Datasets and pretrained models
