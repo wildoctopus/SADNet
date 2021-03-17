@@ -8,7 +8,7 @@ Self and Difference Attention Network for Video Summarization
 </p>
 
 <p align="center">
- <img src="./readmeImg/selfAttn.svg" height=60% width=60%><img src="./readmeImg/difattn.png">
+ <img src="./readmeImg/selfAttn.svg" width=70% height=70%><img src="./readmeImg/difattn.png" width=70% height=70%>
 </p>
 
 
