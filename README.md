@@ -1,5 +1,5 @@
 # SADNet
-Selft and Difference Attention Network for Video Summarization
+Self and Difference Attention Network for Video Summarization
 
 ## SADNet Architecture overview
 
