@@ -9,7 +9,7 @@ Self and Difference Attention Network for Video Summarization
 
 ### Self Attention mechanism
 <p align="center">
- <img src="./readmeImg/selfAttn.svg" width=40% height=40%><img src="./readmeImg/difattn.png" width=70% height=70%>
+ <img src="./readmeImg/selfAttn.svg" width=40% height=40%>
 </p>
 
 ### Difference Attention mechanism
